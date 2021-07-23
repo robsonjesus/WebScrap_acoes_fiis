@@ -186,7 +186,7 @@ while True:
                 textoFormatado(fundo, prevClose, fechamento[0], variacaoPorcentagem, Porcentagem)
 
 
-# print(f'{fundo}: PrevClose: {prevClose} / Candle: {bcolors.BOLD}{fechamento[0]}{bcolors.ENDC} / Variação R$: -{bcolors.FAIL}{variacaoPorcentagem}{bcolors.ENDC}, Variação: {Porcentagem}% ')
+
 
 
 # print(f'{fundo}: PrevClose: {prevClose} / Candle: {bcolors.OKGREEN}{fechamento[0]}{bcolors.ENDC} / Variação: +{bcolors.OKGREEN}{-1 * variacaoPorcentagem}{bcolors.ENDC}, Variação: {Porcentagem}%')
